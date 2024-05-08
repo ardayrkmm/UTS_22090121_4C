@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "663aeaba0a72527683b9e088"
+  },
+  "nama": "Rizal pratama",
+  "nim": 22090021,
+  "hobi": "Main Game"
+},
+{
+  "_id": {
+    "$oid": "663aebc6774dc81176e6a220"
+  },
+  "nama": "Amad",
+  "nim": 22981212,
+  "hobi": "Tidur"
+},
+{
+  "_id": {
+    "$oid": "663aefe37a0dae438fa791e6"
+  },
+  "nama": "Rian",
+  "tanggal": {
+    "$date": "2024-05-08T03:22:11.144Z"
+  },
+  "alamat": "Brebes"
+},
+{
+  "_id": {
+    "$oid": "663af256604d750aa792ef81"
+  },
+  "nama": "Arda yudrik malana",
+  "nim": 22090121
+},
+{
+  "_id": {
+    "$oid": "663af256604d750aa792ef82"
+  },
+  "nama": "Arda yudrik M",
+  "nim": 22090121,
+  "alamat": "Brebes"
+},
+{
+  "_id": {
+    "$oid": "663af256604d750aa792ef83"
+  },
+  "nama": "Amad yudrik M",
+  "nim": 22090121,
+  "alamat": "Brebes",
+  "hobi": "futsal"
+}]
